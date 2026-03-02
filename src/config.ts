@@ -55,9 +55,9 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Zzrliu",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "assets/home/default-logo.png",
+		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
-		logo: "assets/home/home.webp",
+		logo: "assets/home/default-logo.png",
 	},
 
 	// 页面自动缩放配置
