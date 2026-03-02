@@ -379,11 +379,6 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa7-brands:qq",
 			url: "https://jq.qq.com/?_wv=1027&k=749620045",
 		},
-		{
-			name: "Email",
-			icon: "fa7-brands:envelope",
-			url: "mailto:zzrliu8421@foxmail.com",
-		},
 	],
 };
 
