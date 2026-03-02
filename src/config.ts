@@ -381,7 +381,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Email",
-			icon: "material-symbols:email",
+			icon: "fa7-brands:envelope",
 			url: "mailto:zzrliu8421@foxmail.com",
 		},
 	],
