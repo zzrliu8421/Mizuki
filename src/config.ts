@@ -285,13 +285,11 @@ export const navBarConfig: NavBarConfig = {
 					name: "Bing",
 					url: "https://bing.842166.xyz",
 					external: true,
-					icon: "simple-icons:bing",
 				},
 				{
 					name: "Notebook",
 					url: "https://paste.842166.xyz",
 					external: true,
-					icon: "material-symbols:note",
 				},
 			],
 		},
