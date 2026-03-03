@@ -17,8 +17,14 @@ const diaryData: DiaryItem[] = [
 		id: 1,
 		content:
 			"The falling speed of cherry blossoms is five centimeters per second!",
-		date: "2025-01-15T10:30:00Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.jpg"],
+		date: "2026-03-03T11:55:00Z",
+		images: ["/images/diary/1/sakura.jpg", "/images/diary/1/1.jpg"],
+	},
+	{
+		id: 2,
+		content: "每次元宵节的保留节目😂真不行了唉",
+		date: "2026-03-03T11:57:00Z",
+		images: ["/images/diary/2/1.webp", "/images/diary/2/2.webp"],
 	},
 ];
 
@@ -91,3 +97,4 @@ export const getAllTags = () => {
 };
 
 export default diaryData;
+
