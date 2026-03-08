@@ -9,7 +9,7 @@ sourceLink: ""
 draft: false
 date: 2026-03-02T19:00:00
 image: "images/demo.png"
-permalink: "hello-world"
+
 ---
 # Hello World
 
